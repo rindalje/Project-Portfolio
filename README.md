@@ -4,7 +4,7 @@ A collection of my professional and extracurricular data science and analysis pr
 
 ---
 
-Hello, in this repository you will find a collection of notebooks, dashboards and scripts I've created throughout the past 4 years of my educational and professional journey, showcasing my growth, skills, and problem-solving abilities across various projects and domains.
+Hello, in this repository you will find a collection of notebooks, dashboards and scripts that I've created throughout the past 4 years of my educational and professional journey, showcasing my growth, skills, and problem-solving abilities across various projects and domains.
 
 **_Education:_**  
 Michigan State University  
