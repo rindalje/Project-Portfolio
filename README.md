@@ -16,7 +16,7 @@ Data skills utilized: Python (Pandas, Matplotlib, etc.), R, Stata, SQL, Multiple
 **_Professional Experience:_**  
 Procurement Sourcing Analyst  
 Dart Container  
-Data skills utilized: Excel (advanced), Power BI (intermediate), Power Query (intermediate), Supply Chain Analytics  
+Data skills utilized: Excel (Pivot tables, XLOOKUP, logical formulas, SUMIF, COUNTIF, etc.), Power BI (DAX - intermediate), Power Query (intermediate), Supply Chain Analytics
 
 Procurement Analyst Intern  
 Mr. Cooper Group  
