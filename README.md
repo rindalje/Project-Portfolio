@@ -11,7 +11,7 @@ Michigan State University
 C/O 2023  
 Major in Economics  
 Minor in Quantitative Data Analytics  
-Data skills utilized: Python (Pandas, Matplotlib, etc.), R, Stata, SQL, Multiple Regression Testing, Econometrics, Game Theory  
+Data skills utilized: Python (Pandas, Matplotlib, etc.), R, STATA, SQL, Multiple Regression Testing, Econometrics, Game Theory  
 
 **_Professional Experience:_**  
 Procurement Sourcing Analyst  
